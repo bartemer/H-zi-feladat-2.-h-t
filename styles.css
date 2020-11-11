@@ -1,0 +1,77 @@
+image {
+    overflow: hidden;
+}
+
+svg {
+    border-block-start-width: unset;
+    height: 40px;
+    width: 40px;
+    text-align: left;
+    float: left;
+}
+
+nav {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    line-height: 2em;
+    background-color: #333333;
+    text-align: right;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 6px;
+}
+
+a {
+    color: #ff0099;
+    font-size: large;
+    align-content: center;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+body {
+    background-image: url(assets/topography.png);
+    margin: 0%;
+    padding: 10% 10%;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    font-size: 22px;
+}
+
+p {
+    display: block;
+    line-height: 1.5em;
+}
+
+#name {
+    padding-top: 0%;
+    font-size: 40pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+#wiki {
+    padding-top: 0%;
+    font-size: 32pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: #ff0099;
+    display: block;
+    font-size: 25pt;
+    font-weight: bold;
+}
+
+.dash {
+    text-align: center;
+    padding: 3% 3%;
+}
